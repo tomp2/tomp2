@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I am Tom.
+
+I'm currently doing stuff with
+- React
+- NextJs
+- Typescript
+- Python
+
+Mainly working on
+- pubgstatistics.com (coming soon)
+- [minecolonies-building-explorer](https://tomp2.github.io/minecolonies-building-explorer/)
 
 <!--
 **tomp2/tomp2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,6 +8,8 @@ I'm currently doing stuff with
 
 Mainly working on
 - [pubgstatistics.com](https://pubgstatistics.com) (work in progress, not ready yet!)
-  ![preview](./resources/pubgstatistics.png)
+
+  <img src="https://github.com/tomp2/tomp2/blob/main/resources/pubgstatistics.png" width="600"/>
 - [minecolonies-style-explorer](https://tomp2.github.io/minecolonies-style-explorer/?utm_source=githubprofile)
-  ![preview](./resources/styleexplorer.png)
+
+  <img src="https://github.com/tomp2/tomp2/blob/main/resources/styleexplorer.png" width="600"/>
